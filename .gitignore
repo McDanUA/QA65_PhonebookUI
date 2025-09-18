@@ -7,10 +7,7 @@
 *.iml
 *.ipr
 out/
-/gradle
-settings.gradle
-gradlew.bat
-\gradlew
-gradle/
-*.log
-*.png
+
+
+
+
